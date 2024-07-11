@@ -1,6 +1,8 @@
 ### Ondřej Richtr 2024
 
 I tend to post my projects here.
+
+You can find my portfolio page [HERE.](https://ondrej-richtr.github.io)
 <!--![Minion boomer meme](stolen_minion_pic.png)-->
 
 <!---
